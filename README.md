@@ -30,5 +30,5 @@ To analyze and visualize Superstore sales data using Excel to uncover business p
 
 ## 📁 Files Included
 
-[📥 Download Excel Dashboard](https://github.com/AlishaMahanty85/Retail_Project_Excel/blob/main/Superstore_Sales_Dashboard_Project.xlsx)
-[🔗 Problems to Analysis](https://github.com/AlishaMahanty85/Retail_Project_Excel/blob/main/Superstore_Problems_to_Analysis.pdf)
+- [📥 Download Excel Dashboard](https://github.com/AlishaMahanty85/Retail_Project_Excel/blob/main/Superstore_Sales_Dashboard_Project.xlsx)
+- [🔗 Problems to Analysis](https://github.com/AlishaMahanty85/Retail_Project_Excel/blob/main/Superstore_Problems_to_Analysis.pdf)
