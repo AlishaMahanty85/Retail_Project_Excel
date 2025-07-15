@@ -24,10 +24,11 @@ To analyze and visualize Superstore sales data using Excel to uncover business p
 - South region tolerates slower deliveries but maintains good sales.
 - Sales drops in Oct & Feb despite higher quantities sold, likely due to discounts.
 
-## 📷 Dashboard Preview
+## 📷 [Dashboard Preview](https://github.com/AlishaMahanty85/Retail_Project_Excel/blob/main/Superstore_Dashboard_PDF-file.pdf)
 
 ![Superstore Dashboard](https://github.com/AlishaMahanty85/Retail_Project_Excel/blob/main/Superstore_Dashboard_Sample-Picture.png)
 
 ## 📁 Files Included
 
 [📥 Download Excel Dashboard](https://github.com/AlishaMahanty85/Retail_Project_Excel/blob/main/Superstore_Sales_Dashboard_Project.xlsx)
+[🔗 Problems to Analysis](https://github.com/AlishaMahanty85/Retail_Project_Excel/blob/main/Superstore_Problems_to_Analysis.pdf)
